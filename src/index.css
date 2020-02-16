@@ -1,0 +1,150 @@
+html,body{
+	background-color: gray;
+}
+
+.box{
+	background-color: lightgrey;
+	width: 700px;
+	height: 320px;
+	margin:auto;
+	margin-top: 250px;
+	border:5px solid orange;
+	box-sizing: border-box;
+
+}
+.side-left{
+	background-color:darkgrey;
+	padding:20px 60px 10px 30px;
+	box-sizing: border-box;
+	
+
+}
+.side-left button{
+	border:1px solid grey;
+	border-radius: 5px;
+	height: 80px;
+	margin-left: 10px;
+	background-color: grey;
+	font-weight:bold;
+	box-shadow: 1px 1px 3px 1px black;
+}
+.side-left button.active{
+	background-color: orange;
+}
+
+.side-right{
+	background-color: darkgrey;
+}
+
+.sound{
+	margin-top: 40px;
+	margin-left: 20px;
+	margin-right: 20px;
+	display: none;
+}
+
+.power{
+	width: 100%;
+	margin:auto;
+	font-weight: bold;
+	text-align: center;
+}
+
+.power .power-back{
+	background-color: black;
+	width: 60px;
+	height: 26px;
+	margin:auto;
+	border:3px solid black;
+	cursor: pointer;
+
+}
+.on{
+	background-color: blue;
+	width: 25px;
+	height: 20px;
+	float: right;
+}
+.off{
+	background-color: blue;
+	width: 25px;
+	height: 20px;
+}
+
+.display{
+	width: 200px;
+	height: 40px;
+	background-color: grey;
+	margin:auto;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 10px;
+	margin-top: -8px;
+}
+
+.volume{
+	margin:auto;
+	margin-top: -20px;
+}
+
+.volume input{
+	width: 200px;
+	height: 10px;
+	-webkit-appearance: none;
+ 	background: black;
+  	outline: none;
+  	opacity: 0.7;
+  	-webkit-transition: .2s;
+  	transition: opacity .2s;
+}
+
+.volume input::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: blue; /* blue background */
+  cursor: pointer; /* Cursor on hover */
+  border-radius: 50%;
+}
+
+.playSong{
+	display: block;
+	width: 100%;
+	height: 50px;
+	margin-top: -30px;
+}
+.playSong button{
+	display: block;
+	background-color: grey;
+	border:0;
+	font-weight: bold;
+	margin:auto;
+	padding:10px;
+
+}
+
+.playSong .control{
+	text-align: center;
+	margin-top: 10px;
+}
+
+.playSong .control span{
+	margin-left: 8px;
+	cursor: pointer;
+}
+
+#focusButton{
+	opacity: 0;
+	display: block;
+}
+
+.footer{
+	font-size: 20px;
+	font-family: monospace;
+	text-align: center;
+	color: maroon;
+	font-weight: bold;
+	margin-top: 100px;
+}
+
