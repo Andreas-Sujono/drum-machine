@@ -183,7 +183,7 @@ export default class App extends Component{
 
 	render(){
 		return(
-			<div>
+			<div className="allContainer">
 				<button autoFocus onKeyDown={this.shorcutPlay} ref="focusButton" id="focusButton"> focus </button>
 				<div className="box row container" tabIndex="-1" onFocus={() => this.refs.focusButton.focus()}>
 
