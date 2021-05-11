@@ -296,7 +296,7 @@ export default class App extends Component{
 					  <source src={sound2} type="audio/wav"/>
 					</audio>
 					<audio controls className="sound3 col-4" ref="sound3">
-					  <source src={sound3} type="audio/wav"/>
+					  <source src={sound3} type="audio/mpeg"/>
 					</audio>
 					<audio controls className="sound4 col-4" ref="sound4">
 					  <source src={sound4} type="audio/mpeg"/>
