@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import sound1 from './sound/cymbal.wav'
 import sound2 from './sound/openHiHat.wav'
-import sound3 from './sound/closeHiHat.wav'
+import sound3 from './sound/closeHiHat.mp3'
 import sound4 from './sound/clap.mp3'
 import sound5 from './sound/snare3.wav'
 import sound6 from './sound/snare4.wav'
