@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2c4598ef20e17733cf82a335bbb6499",
+    "revision": "e980006fc9cf23eca1e4ef876e1de2e6",
     "url": "/drum-machine/index.html"
   },
   {
-    "revision": "65c35fa4a67c1b1842d9",
-    "url": "/drum-machine/static/css/main.f76f9f7c.chunk.css"
+    "revision": "86e8ad03565aefe40a1e",
+    "url": "/drum-machine/static/css/main.d7ea2dcc.chunk.css"
   },
   {
     "revision": "def127bc6ebc8db948a8",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drum-machine/static/js/2.b98de1b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65c35fa4a67c1b1842d9",
-    "url": "/drum-machine/static/js/main.1ca30e6f.chunk.js"
+    "revision": "86e8ad03565aefe40a1e",
+    "url": "/drum-machine/static/js/main.30f99acb.chunk.js"
   },
   {
     "revision": "507a9231a935b1c59061",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drum-machine/static/media/clap.610f0942.mp3"
   },
   {
-    "revision": "df52b6bf1c28de086c0f06841a008360",
-    "url": "/drum-machine/static/media/closeHiHat.df52b6bf.wav"
+    "revision": "83529828040eba9d3115d7204fd06cb8",
+    "url": "/drum-machine/static/media/closeHiHat.83529828.mp3"
   },
   {
     "revision": "071d9eb7a84e688aec4496efeabbaedb",
