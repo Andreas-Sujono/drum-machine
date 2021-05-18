@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/drum-machine/static/css/main.2701f287.chunk.css",
-    "main.js": "/drum-machine/static/js/main.94ec8b34.chunk.js",
-    "main.js.map": "/drum-machine/static/js/main.94ec8b34.chunk.js.map",
+    "main.js": "/drum-machine/static/js/main.9f71ddf5.chunk.js",
+    "main.js.map": "/drum-machine/static/js/main.9f71ddf5.chunk.js.map",
     "runtime-main.js": "/drum-machine/static/js/runtime-main.49a0ba3c.js",
     "runtime-main.js.map": "/drum-machine/static/js/runtime-main.49a0ba3c.js.map",
     "static/js/2.770ac1b1.chunk.js": "/drum-machine/static/js/2.770ac1b1.chunk.js",
     "static/js/2.770ac1b1.chunk.js.map": "/drum-machine/static/js/2.770ac1b1.chunk.js.map",
     "index.html": "/drum-machine/index.html",
-    "precache-manifest.5c77650dd734570be98ae7c881d54627.js": "/drum-machine/precache-manifest.5c77650dd734570be98ae7c881d54627.js",
+    "precache-manifest.5dd50474f43aa751c47af19086ff55f3.js": "/drum-machine/precache-manifest.5dd50474f43aa751c47af19086ff55f3.js",
     "service-worker.js": "/drum-machine/service-worker.js",
     "static/css/main.2701f287.chunk.css.map": "/drum-machine/static/css/main.2701f287.chunk.css.map",
     "static/js/2.770ac1b1.chunk.js.LICENSE.txt": "/drum-machine/static/js/2.770ac1b1.chunk.js.LICENSE.txt",
@@ -18,7 +18,7 @@
     "static/media/Zedd-Illusion.mp3": "/drum-machine/static/media/Zedd-Illusion.244409ac.mp3",
     "static/media/Zedd-Papercut.mp3": "/drum-machine/static/media/Zedd-Papercut.ade60bd2.mp3",
     "static/media/clap.mp3": "/drum-machine/static/media/clap.610f0942.mp3",
-    "static/media/closeHiHat.mp3": "/drum-machine/static/media/closeHiHat.83529828.mp3",
+    "static/media/closeHiHat.mp3": "/drum-machine/static/media/closeHiHat.ccbb72a4.mp3",
     "static/media/cymbal.wav": "/drum-machine/static/media/cymbal.071d9eb7.wav",
     "static/media/kickBass.mp3": "/drum-machine/static/media/kickBass.5524e136.mp3",
     "static/media/openHiHat.wav": "/drum-machine/static/media/openHiHat.cdfc6c02.wav",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.49a0ba3c.js",
     "static/js/2.770ac1b1.chunk.js",
     "static/css/main.2701f287.chunk.css",
-    "static/js/main.94ec8b34.chunk.js"
+    "static/js/main.9f71ddf5.chunk.js"
   ]
 }
